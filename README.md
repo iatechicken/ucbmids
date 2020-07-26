@@ -3,7 +3,7 @@
 Short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is organized by the classes that I took and will include a short samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
 
 ## W200 Python Fundamental for Data science
-
+### Highlights
 - Object Oriented Programming, Functional Programming
 - Data Structures
 - EDA in Python (pandas, numpy, matpotlib)
@@ -23,12 +23,12 @@ Short comprehensive review of my time at UC Berkeley Master of Information and D
     ![bechdel_highlight](./W200/bechdel.png)
 
 ## W203 Statistics for Data Science
-
+### Highlights
 - Probability Theory and foundational understanding of classical statistics and how it fits within the broader context of data science
 
 - learned and used R for most assignments
 
-- Final Project: Linear Regression on North Carolina Crime data
+### Final Project: Linear Regression on North Carolina Crime data
 
     - The consulting group Significant Effects, comprised of data scientists Jeff Li, Vasanth Ramani, and Richard Ryu, has been tasked by a political campaign to identify determinants of crime
 
@@ -41,10 +41,10 @@ Short comprehensive review of my time at UC Berkeley Master of Information and D
     - ![final results](./W203/final.png)
 
 ## W205 Fundamentals of Data Engineering
-
+### Highlights
 - First introduction to the world of dockers, cloud services (GCP), data pipeline, query, transformation, and streaming
 
-- Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
+### Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
 
     - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. Tools and packages leveraged in the final pipeline:
 
