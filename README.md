@@ -1,4 +1,6 @@
-# ucbmids
+# UCB MIDS
+
+Short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is organized by the classes that I took and will include a short samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
 
 ## W200 Python Fundamental for Data science
 
@@ -7,14 +9,14 @@
 - EDA in Python (pandas, numpy, matpotlib)
 - Git (not exactly python but this was important)
 - Pseudo-coding
-- Mid Term Project: [BBQ Management system](https://github.com/iatechicken/ucbmids/blob/master/W200/BBQ_MGMT_revised.py)
+### Mid Term Project: [BBQ Management system](https://github.com/iatechicken/ucbmids/blob/master/W200/BBQ_MGMT_revised.py)
     - First python program I ever wrote! A restaurant management application for my friend's Korean BBQ restaurant
 
     ![home screen](./W200/bbq_1.png)
 
     ![fridge status](./W200/bbq_2.png)
 
-- Final Project: [Bechdel Analysis](https://docs.google.com/presentation/d/1vHQwoAiBGeFzBr6I7qQ5OstKaOVww4e4v5RFkw12f6o/edit?usp=sharing)
+### Final Project: [Bechdel Analysis](https://docs.google.com/presentation/d/1vHQwoAiBGeFzBr6I7qQ5OstKaOVww4e4v5RFkw12f6o/edit?usp=sharing)
 
     - Used pandas on webscraped data from Box Office Mojo and IMDB
 
@@ -44,7 +46,7 @@
 
 - Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
 
-    - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. We leverage:
+    - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. Tools and packages leveraged in the final pipeline:
 
         - dockers
         - Kafka
