@@ -37,8 +37,10 @@ Palindrome!
 
 Imagine working on this script for an entire weekend and still being stuck during the 2nd week of class. This was when I started to doubt, am I really cut for this? Is this what I'm going to be doing for the rest of my life? However, this was also the moment that really defined MIDS for me. As I was struggling with all the new python syntax, I truly got to take advantage of a collaborative classroom environment where students and TAs go out of their way to help each other. If there were hard problems, we worked together and help each other with code reviews without making it too obvious. Everyone was very professional and someone always had a great idea to solve the hard problems. With all the help, I was able to survive my first class at UCB MIDS, Python FUndamental for Data Science. Below are some course highlights:
 
-- Object Oriented programming
+- Object Oriented Programming, Functional Programming
 - Data Structures
+- EDA in Python (pandas, numpy, matpotlib)
 - Git (not exactly python but this was important)
+- Pseudo-coding
 - Mid Term Project: BBQ Management system
-- Final Project: Bechdel Analysis
+- Final Project: [Bechdel Analysis](https://docs.google.com/presentation/d/1vHQwoAiBGeFzBr6I7qQ5OstKaOVww4e4v5RFkw12f6o/edit?usp=sharing) (github)
