@@ -10,9 +10,9 @@
 - Mid Term Project: BBQ Management system
     - First python program I ever wrote! A restaurant management application for my friend's Korean BBQ restaurant
 
-    [home screen](./w200/bbq_1.png)
+    ![home screen](./w200/bbq_1.png)
 
-    [fridge status](./w200/bbq_2.png)
+    ![fridge status](./w200/bbq_2.png)
 
 - Final Project: [Bechdel Analysis](https://docs.google.com/presentation/d/1vHQwoAiBGeFzBr6I7qQ5OstKaOVww4e4v5RFkw12f6o/edit?usp=sharing) (github)
 
