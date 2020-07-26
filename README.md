@@ -22,6 +22,10 @@
 
 ## W203 Statistics for Data Science
 
+- Probability Theory and foundational understanding of classical statistics and how it fits within the broader context of data science
+
+- learned and used R for most assignments
+
 - Final Project: Linear Regression on North Carolina Crime data
 
     - The consulting group Significant Effects, comprised of data scientists Jeff Li, Vasanth Ramani, and Richard Ryu, has been tasked by a political campaign to identify determinants of crime
@@ -32,9 +36,26 @@
 
     - Evaluate the models through: CLM assumptions and fit
 
-    - [final results](./W203/final.png)
+    - ![final results](./W203/final.png)
 
 ## W205 Fundamentals of Data Engineering
+
+- First introduction to the world of dockers, cloud services (GCP), data pipeline, query, transformation, and streaming
+
+- Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
+
+    - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. We leverage:
+
+        - dockers
+        - Kafka
+        - Flask
+        - Hadoop HDFS
+        - PySpark SQL
+        - Pandas, Jupyter Notebook, Numpy
+
+    ![pipeline architecture](./W205/pipeline.png)
+
+    - [step by step annotations](./W205/README.md)
 
 ## W209 Data Visualization
 
