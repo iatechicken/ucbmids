@@ -60,8 +60,44 @@ Short comprehensive review of my time at UC Berkeley Master of Information and D
 - [step by step annotations](./W205/README.md)
 
 ## W209 Data Visualization
+### highlights
+- Main exposure to D3.js, with general front-end concepts
+- Data visualization concepts, theory, etc.
+- A picture is worth more than thousand words
+- [D3.js examples](https://codepen.io/collection/AGwgrw)
+
+### Final Project: MOSS Dashboard
+- Create a dashboard that will visualize the outcome of [LIME](https://github.com/marcotcr/lime)
+- [github](https://github.com/jlee-snn/w209_MOSS)
+- [Final Presentation] (https://docs.google.com/presentation/d/1LEihVbGMWBkUKJHeLqjL8jqGFBDI-Ceae-GL_Bp2Blw/edit?usp=sharing)
 
 ## W207 Applied Machine Learning
+### highlights
+- My official introduction to Machine Learning. Yes, it took only about a year before I actually got the chance to do Machine Learning. I got a chance to learn from Yacov Salomon and one thing I will remember the most is his whiteboard and always dry markers... and how he always emphasized the importance of understanding the intuition behind any algorithms. To get a better understanding of what I mean, take a look at the Q&A below from one of the assignments:
+```
+Q: Any ideas why logistic regression doesn't work as well as Naive Bayes?
+
+A: The difference between Naive Bayes and logistic regression is that Naive Bayes assumes independence amongst features while logistic regression looks for relationships between features. Since we're dealing with more than 2,000 features, the logistic regression will perform badly due to complexity. If we want to improve the performance of our logistic regression model, we must reduce the number of features
+```
+- Heavy Exposure: sklearn, numpy, matplotlib
+- Code Sample from Assignments:
+![GMM](./W207/gmm.png)
+
+    - I think this is the level of technical expectation, about half way into the program. Many differences and improvements can be noticed from my first python code :D. However, I do want to emphasize that my experience at UCB MIDS would not have been possible without all the positive/constructive participation of my fellow classmates, the TAs, and the instructors. Thank you to everyone.
+
+### Final Project: Kaggle - Facial Keypoint Detection Challenge
+- This was my first [Kaggle](https://www.kaggle.com/) competition.
+
+- Used Keras, tensorflow, skimage, sklearn, pandas, numpy, matplotlib, CUDA, CuDNN
+
+- [presentation](https://docs.google.com/presentation/d/1IPMNdfzN4TBaobklF8pnc0rI8l8BjUV2utph3ZmKl4Q/edit?usp=sharing)
+
+- [github](https://github.com/iatechicken/kaggle_rnd/blob/master/FinalProject_FacialKepoints_RnD.ipynb)
+
+![Background](./W207/background.png)
+
+![Architecture](./W207/arch.png)
+
 
 ## W251 Deep Learning in the Cloud at the Edge
 
