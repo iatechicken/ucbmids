@@ -58,7 +58,6 @@ This will be a short comprehensive review of my time at UC Berkeley Master of In
 ### Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
 
 - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. Tools and packages leveraged in the final pipeline:
-
     - dockers
     - Kafka
     - Flask
@@ -115,9 +114,7 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
 - Despite the fact that data is growing at an exponential rate, there are so many uncaptured data in the wild. This is where edge computing comes in.
 - Tuning models to safely land a lunar lander on moon [github](https://github.com/iatechicken/w251/tree/master/hw11)
 ![lunar lander](./W251/m3-frame50000.gif)
-
 - Trained a Transformer-based Machine Translation Network on a small English to German WMT corpus [github](https://github.com/iatechicken/w251/tree/master/hw09)
-
 - Capture facial images from a webcam that is attached to the Jetson TX-2. Then, send the captured facial images to the cloud object storage on IBM virtual servers using MQTT [github](https://github.com/iatechicken/w251/tree/master/new_hw03)
 
 ![ibm_jet](./W251/ibm_jet.png)
@@ -127,7 +124,9 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
 - Used IBM Cloud for the pipeline
 - Leveraged MTCNN, mixnet_m, LSTM, PyTorch, CUDA 10.0 for training
 - Achieved an accuracy of ~ 88.81% and log loss of 0.25, when predicting videos with a single face captured
+
 [github](https://github.com/zengm71/DeepFakeChallenge)
+
 [presentation](https://docs.google.com/presentation/d/1bLG81qy8hxRKJf5ctfp-ONL1mlF2sWr9PHhFOPh2MSE/edit?usp=sharing)
 
 ![fake example](./W251/Deepfake_example.gif)
