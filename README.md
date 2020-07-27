@@ -60,7 +60,7 @@ Short comprehensive review of my time at UC Berkeley Master of Information and D
 - [step by step annotations](./W205/README.md)
 
 ## W209 Data Visualization
-### highlights
+### Highlights
 - Main exposure to D3.js, with general front-end concepts
 - Data visualization concepts, theory, etc.
 - A picture is worth more than thousand words
@@ -72,7 +72,7 @@ Short comprehensive review of my time at UC Berkeley Master of Information and D
 - [Final Presentation] (https://docs.google.com/presentation/d/1LEihVbGMWBkUKJHeLqjL8jqGFBDI-Ceae-GL_Bp2Blw/edit?usp=sharing)
 
 ## W207 Applied Machine Learning
-### highlights
+### Highlights
 - My official introduction to Machine Learning. Yes, it took only about a year before I actually got the chance to do Machine Learning. I got a chance to learn from Yacov Salomon and one thing I will remember the most is his whiteboard and always dry markers... and how he always emphasized the importance of understanding the intuition behind any algorithms. To get a better understanding of what I mean, take a look at the Q&A below from one of the assignments:
 ```
 Q: Any ideas why logistic regression doesn't work as well as Naive Bayes?
@@ -86,7 +86,7 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
     - I think this is the level of technical expectation, about half way into the program. Many differences and improvements can be noticed from my first python code :D. However, I do want to emphasize that my experience at UCB MIDS would not have been possible without all the positive/constructive participation of my fellow classmates, the TAs, and the instructors. Thank you to everyone.
 
 ### Final Project: Kaggle - Facial Keypoint Detection Challenge
-- This was my first [Kaggle](https://www.kaggle.com/) competition.
+- This was my first [Kaggle](https://www.kaggle.com/c/facial-keypoints-detection) competition.
 
 - Used Keras, tensorflow, skimage, sklearn, pandas, numpy, matplotlib, CUDA, CuDNN
 
@@ -98,9 +98,41 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
 
 ![Architecture](./W207/arch.png)
 
-
 ## W251 Deep Learning in the Cloud at the Edge
+### Highlights
+- Heavy exposure to dockers, IBM cloud, dev/ops, IoT, edge computing, deep learning, NVDIA Jetson TX-2
+- Despite the fact that data is growing at an exponential rate, there are so many uncaptured data in the wild. This is where edge computing comes in.
+- Tuning models to safely land a lunar lander on moon [github](https://github.com/iatechicken/w251/tree/master/hw11)
+![lunar lander](./W251/m3-frame50000.gif)
 
-## W261 Machine Learning at specialized
+- Trained a Transformer-based Machine Translation Network on a small English to German WMT corpus [github](https://github.com/iatechicken/w251/tree/master/hw09)
+
+- Capture facial images from a webcam that is attached to the Jetson TX-2. Then, send the captured facial images to the cloud object storage on IBM virtual servers using MQTT [github](https://github.com/iatechicken/w251/tree/master/new_hw03)
+
+![ibm_jet](./W251/ibm_jet.png)
+
+### Final Project: Kaggle - Deep Fake Detection Challenge
+- Participate in the [Deepfake Detection Challenge](https://www.kaggle.com/c/deepfake-detection-challenge) to predict whether or not a particular video is a deep fake
+- Used IBM Cloud for the pipeline
+- Leveraged MTCNN, mixnet_m, LSTM, PyTorch, CUDA 10.0 for training
+- Achieved an accuracy of ~ 88.81% and log loss of 0.25, when predicting videos with a single face captured
+- [github](https://github.com/zengm71/DeepFakeChallenge)
+- [presentation](https://docs.google.com/presentation/d/1bLG81qy8hxRKJf5ctfp-ONL1mlF2sWr9PHhFOPh2MSE/edit?usp=sharing)
+
+![fake example](./W251/Deepfake_example.gif)
+
+Real Video             |  Fake Video
+:-------------------------:|:-------------------------:
+![real video](./W251/ellavthztb.gif)  |  ![fake video](./W251/dbzpcjntve.gif)
+
+## W261 Machine Learning at Scale
+### Highlights
+3 goals achieved in Kyle Hamilton's class (thank you for all the dad jokes of data science despite teaching back-to-back classes after long day of work. You are MVP!):
+1.  learn to recognize and apply key concepts in parallel computation and MapReduce design
+2. design stateless parallelizable implementations of core machine learning algorithms from scratch
+3. gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
+- Lots of Hadoop and Spark and databricks
+### Final Project: Predict Airlines Delay
 
 ## W210 Capstone
+This is it. Putting everything together, I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com)
