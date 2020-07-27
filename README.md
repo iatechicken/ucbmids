@@ -1,6 +1,13 @@
-# UCB MIDS
+# Richard Ryu
 
-Short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is organized by the classes that I took and will include a short samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
+Hello, my name is Richard Ryu and I like to build things and solve problems. I wanted to create a simple webpage that will help you better understand my technical capabilities.
+
+This will be a short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is organized by the classes that I took and will include samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
+
+[LinkedIn](https://www.linkedin.com/in/richardryu/)
+[github](https://github.com/iatechicken/ucbmids)
+[Codepen](https://codepen.io/collection/AGwgrw)
+[StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
 ## W200 Python Fundamental for Data science
 ### Highlights
