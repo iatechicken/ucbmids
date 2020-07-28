@@ -84,11 +84,13 @@ This will be a short comprehensive review of my time at UC Berkeley Master of In
 ## W207 Applied Machine Learning
 ### Highlights
 - My official introduction to Machine Learning. Yes, it took only about a year before I actually got the chance to do Machine Learning. I got a chance to learn from Yacov Salomon and one thing I will remember the most is his whiteboard and always dry markers... and how he always emphasized the importance of understanding the intuition behind any algorithms. To get a better understanding of what I mean, take a look at the Q&A below from one of the assignments:
+
 ```
 Q: Any ideas why logistic regression doesn't work as well as Naive Bayes?
 
 A: The difference between Naive Bayes and logistic regression is that Naive Bayes assumes independence amongst features while logistic regression looks for relationships between features. Since we're dealing with more than 2,000 features, the logistic regression will perform badly due to complexity. If we want to improve the performance of our logistic regression model, we must reduce the number of features
 ```
+
 - Heavy Exposure: sklearn, numpy, matplotlib
 - Code Sample from Assignments:
 ![GMM](./W207/gmm.png)
@@ -151,6 +153,7 @@ This is it. Putting everything together, I teamed up with Hong, Michelle, and Ra
 ### Highlights
 - Train YOLOv5 on custom labelled images [colab](https://colab.research.google.com/drive/1mHWPAjytYcGhQ3LzPV4TjaOshTEG7T3L?usp=sharing)
 - googlemaps reverse_geocode
+
 ```
 # You will need an active googlemaps API code
 # david = pd.DataFrame(columns=['new_lat', 'new_long'])
@@ -162,6 +165,7 @@ for i in list(range(len(david))):
     temp_result = gmaps.reverse_geocode((david.loc[i,'new_lat'], david.loc[i, 'new_long']), result_type = "postal_code")
     david.loc[i, 'zipcode'] = temp_result[0].get('address_components')[0].get('long_name')
 ```
+
 - [github](https://github.com/sunh0003/W210Capstone-AccessibleParkingMap/tree/master)
 
 <iframe src="https://player.vimeo.com/video/442117134" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
