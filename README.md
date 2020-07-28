@@ -147,3 +147,21 @@ Real Video             |  Fake Video
 
 ## W210 Capstone
 This is it. Putting everything together, I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com)
+
+### Highlights
+- Train YOLOv5 on custom labelled images [colab](https://colab.research.google.com/drive/1mHWPAjytYcGhQ3LzPV4TjaOshTEG7T3L?usp=sharing)
+- googlemaps reverse_geocode
+```
+# You will need an active googlemaps API code
+# david = pd.DataFrame(columns=['new_lat', 'new_long'])
+
+import googlemaps
+gmaps = googlemaps.Client(key = 'your API key')
+
+for i in list(range(len(david))):
+    temp_result = gmaps.reverse_geocode((david.loc[i,'new_lat'], david.loc[i, 'new_long']), result_type = "postal_code")
+    david.loc[i, 'zipcode'] = temp_result[0].get('address_components')[0].get('long_name')
+```
+- [github](https://github.com/sunh0003/W210Capstone-AccessibleParkingMap/tree/master)
+
+<iframe src="https://player.vimeo.com/video/442117134" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
