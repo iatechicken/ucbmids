@@ -1,0 +1,10 @@
+a	2
+for	1
+this	3
+is	2
+lines	1
+two	1
+small	3
+file	3
+test	3
+has	1

@@ -15,7 +15,7 @@ To be more specific, this will be a short comprehensive review of my time at UC 
 [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
 ## W200 Python Fundamental for Data science (2018 Summer)
-This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions and different data structures like float  vs int. However, what I remember from this class were two things:
+This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions, and different data structures like float  vs int. However, what I remember most from this class were two things:
 
 1. Great community. Our class was comprised of students with no python background from all ages and all genders. With a common goal of learning, everybody (including the TAs and the instructors) helped each other out and was readily available!
 
@@ -25,16 +25,16 @@ This was my first "coding" class in an academic setting. Coming in with only 2+ 
 ### Highlights
 - Object Oriented Programming, Functional Programming
 - Data Structures
-- EDA in Python (pandas, numpy, matpotlib)
+- EDA in Python (pandas, numpy, matplotlib)
 - Git
 - Pseudo-coding
 
 ### Mid Term Project: [BBQ Management system](https://github.com/iatechicken/ucbmids/blob/master/W200/BBQ_MGMT_revised.py)
 - First python application I ever wrote! A restaurant management application for my friend's Korean BBQ restaurant
 
-  ![home screen](./W200/bbq_1.png)
+<img src="./W200/bbq_1.png" width="600">
 
-  ![fridge status](./W200/bbq_2.png)
+<img src="./W200/bbq_2.png" width="400">
 
 ### Final Project: [Bechdel Analysis](https://docs.google.com/presentation/d/1vHQwoAiBGeFzBr6I7qQ5OstKaOVww4e4v5RFkw12f6o/edit?usp=sharing)
 
@@ -161,14 +161,23 @@ Real Video             |  Fake Video
 ![real video](./W251/ellavthztb.gif)  |  ![fake video](./W251/dbzpcjntve.gif)
 
 ## W261 Machine Learning at Scale (2020 Spring)
-### Highlights
 3 goals achieved in Kyle Hamilton's class (thank you for all the dad jokes of data science despite teaching back-to-back classes after long days of work. You are the real MVP!):
 1. learn to recognize and apply key concepts in parallel computation and MapReduce design
 2. design stateless parallelizable implementations of core machine learning algorithms from scratch
 3. gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
-- Lots of Hadoop, Spark and databricks
 
-### Final Project: Predict Airlines Delay
+### Highlights
+- Lots of Hadoop, Spark and databricks
+- [Spark Intro and Codes](./W261/hw3_Workbook.html)
+- [OLS, Ridge, and Lasso with Spark RDDs](./W261/hw4_Workbook.html)
+
+![OLS](./W261/OLS.png)
+
+### Final Project: Predict Flight Delay at Scale
+Can weather data and basic airline metadata be used to predict whether or not a given flight will be delayed at a level of accuracy that will be practically useful? We used 'PySpark.ml.feature VectorAssembler' to prepare feature engineered data for Linear Regression and Gradient Boosted Decision Tree models. Although the results were not promising (RMSE ~42.15 and ~78.2% accuracy) for our final model, it was a good data science experience with my teammates Andrew Webb, Suzy Choi, and Pierce Coggins. To be specific, we got to experience the process of preparing our own data from scratch for the analysis and the invaluable experience of explaining why it wasn't effective. (This is the hard part!)
+
+[notebook](./W251/Team 26_Final Project Writeup.html)
+[presentation](https://docs.google.com/presentation/d/1k2vu4djyhjHTvuGNRnIekUbIcTpqaWKEzKtHx671rZc/edit?usp=sharing)
 
 ## W210 Capstone (2020 Summer)
 This is it. Putting everything together, I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com). Our plan was to:
