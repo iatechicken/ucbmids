@@ -162,12 +162,11 @@ Real Video             |  Fake Video
 
 ## W261 Machine Learning at Scale (2020 Spring)
 3 goals achieved in Kyle Hamilton's class (thank you for all the dad jokes of data science despite teaching back-to-back classes after long days of work. You are the real MVP!):
-1. learn to recognize and apply key concepts in parallel computation and MapReduce design
-2. design stateless parallelizable implementations of core machine learning algorithms from scratch
-3. gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
 
 ### Highlights
-- Lots of Hadoop, Spark and databricks
+- Learn to recognize and apply key concepts in parallel computation and MapReduce design
+- Design stateless parallelizable implementations of core machine learning algorithms from scratch
+- Gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
 - [Spark Intro and Codes](./W261/hw3_Workbook.html)
 - [OLS, Ridge, and Lasso with Spark RDDs](./W261/hw4_Workbook.html)
 
@@ -180,7 +179,7 @@ Can weather data and basic airline metadata be used to predict whether or not a 
 [presentation](https://docs.google.com/presentation/d/1k2vu4djyhjHTvuGNRnIekUbIcTpqaWKEzKtHx671rZc/edit?usp=sharing)
 
 ## W210 Capstone (2020 Summer)
-This is it. Putting everything together, I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com). Our plan was to:
+This is it. I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com). Our plan was to:
 - First, train a model to detect street-level accessibility obstacles like lamps, fire hydrants, no parking signs
 - Second, Find areas from a zipcode level with the least amount of accessibility obstacles
 - Third, use feature engineering, googlemaps, and data visualization to disseminate this information
@@ -202,19 +201,5 @@ for i in list(range(len(david))):
 ```
 
 - For more details and code samples of all the feature engineering required for this project, please refer to the README.md on our project [github](https://github.com/sunh0003/W210Capstone-AccessibleParkingMap)
-
-```
-# You will need an active googlemaps API code
-# david = pd.DataFrame(columns=['new_lat', 'new_long'])
-
-import googlemaps
-gmaps = googlemaps.Client(key = 'your API key')
-
-for i in list(range(len(david))):
-    temp_result = gmaps.reverse_geocode((david.loc[i,'new_lat'], david.loc[i, 'new_long']), result_type = "postal_code")
-    david.loc[i, 'zipcode'] = temp_result[0].get('address_components')[0].get('long_name')
-```
-
-- [github](https://github.com/sunh0003/W210Capstone-AccessibleParkingMap/tree/master)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzchReC1kxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
