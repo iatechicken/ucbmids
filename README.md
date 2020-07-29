@@ -1,6 +1,6 @@
 # Richard Ryu
 
-![Richard](./rsz_2iamge0.png)
+![Richard](./rsz_2image0.png)
 
 Hello, my name is Richard Ryu and I like to build things and solve problems. I wanted to create a simple webpage that will help you better understand how UC Berkeley Master of Information Data Science transformed a non-technical student who only knew how to read SQL queries.
 
@@ -60,7 +60,7 @@ I took a year break after my first semester at UC Berkeley MIDS due to my commit
 
 [pdf version](./W203/sig_eff.pdf)
 
-- ![final results](./W203/final.png)
+![final results](./W203/final.png)
 
 ## W205 Fundamentals of Data Engineering (2019 Summer)
 I was always fascinated by the fast moving lines of log on a terminal. I got a chance to watch a lot of that in work, when I participated in a project to switch the host infrastructure of our web platform from AWS to Microsoft Azure. By the time I was done with W205 Data Engineering, I think I have a general idea of what all those fast moving lines of logs were doing.
