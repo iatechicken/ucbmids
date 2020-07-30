@@ -14,7 +14,7 @@ To be more specific, this will be a short comprehensive review of my time at UC 
 
 [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
-(<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/Team26_FINALProjectWriteup.html">Download Resume</a>)
+(<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
 
 ## W200 Python Fundamental for Data science (2018 Summer)
 This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions, and different data structures like float  vs int. However, what I remember most from this class were two things:
