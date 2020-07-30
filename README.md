@@ -169,15 +169,15 @@ Real Video             |  Fake Video
 - Learn to recognize and apply key concepts in parallel computation and MapReduce design
 - Design stateless parallelizable implementations of core machine learning algorithms from scratch
 - Gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
-- [Spark Intro and Codes](./W261/hw3_Workbook.html)
-- [OLS, Ridge, and Lasso with Spark RDDs](./W261/hw4_Workbook.html)
+- [Spark Intro and Codes](http://people.ischool.berkeley.edu/~richard.ryu/hw3_Workbook.html)
+- [OLS, Ridge, and Lasso with Spark RDDs](http://people.ischool.berkeley.edu/~richard.ryu/hw4_Workbook.html)
 
 ![OLS](./W261/OLS.png)
 
 ### Final Project: Predict Flight Delay at Scale
 Can weather data and basic airline metadata be used to predict whether or not a given flight will be delayed at a level of accuracy that will be practically useful? We used 'PySpark.ml.feature VectorAssembler' to prepare feature engineered data for Linear Regression and Gradient Boosted Decision Tree models. Although the results were not promising (RMSE ~42.15 and ~78.2% accuracy) for our final model, it was a good data science experience with my teammates Andrew Webb, Suzy Choi, and Pierce Coggins. To be specific, we got to experience the process of preparing our own data from scratch for the analysis and the invaluable experience of explaining why it wasn't effective. (This is the hard part!)
 
-[notebook](./W261/Team26_FINALProjectWriteup.html)
+[notebook](http://people.ischool.berkeley.edu/~richard.ryu/Team26_FinalProjectWriteup.html)
 
 [presentation](https://docs.google.com/presentation/d/1k2vu4djyhjHTvuGNRnIekUbIcTpqaWKEzKtHx671rZc/edit?usp=sharing)
 
