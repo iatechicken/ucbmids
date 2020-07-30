@@ -14,6 +14,8 @@ To be more specific, this will be a short comprehensive review of my time at UC 
 
 [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
+(<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/Team26_FINALProjectWriteup.html">Download Resume</a>)
+
 ## W200 Python Fundamental for Data science (2018 Summer)
 This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions, and different data structures like float  vs int. However, what I remember most from this class were two things:
 
@@ -175,7 +177,8 @@ Real Video             |  Fake Video
 ### Final Project: Predict Flight Delay at Scale
 Can weather data and basic airline metadata be used to predict whether or not a given flight will be delayed at a level of accuracy that will be practically useful? We used 'PySpark.ml.feature VectorAssembler' to prepare feature engineered data for Linear Regression and Gradient Boosted Decision Tree models. Although the results were not promising (RMSE ~42.15 and ~78.2% accuracy) for our final model, it was a good data science experience with my teammates Andrew Webb, Suzy Choi, and Pierce Coggins. To be specific, we got to experience the process of preparing our own data from scratch for the analysis and the invaluable experience of explaining why it wasn't effective. (This is the hard part!)
 
-[notebook](./W251/Team 26_Final Project Writeup.html)
+[notebook](./W261/Team26_FINALProjectWriteup.html)
+
 [presentation](https://docs.google.com/presentation/d/1k2vu4djyhjHTvuGNRnIekUbIcTpqaWKEzKtHx671rZc/edit?usp=sharing)
 
 ## W210 Capstone (2020 Summer)
