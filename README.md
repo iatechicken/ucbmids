@@ -4,7 +4,7 @@
 
 Hello, my name is Richard Ryu and I like to build things and solve problems. I wanted to create a simple webpage that will help you better understand how UC Berkeley Master of Information Data Science transformed a non-technical student who only knew how to read SQL queries.
 
-To be more specific, this will be a short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is chronologically organized by the classes that I took and will include samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
+To be more specific, this will be a short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is chronologically ordered by the classes that I took and will include samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
 
 [LinkedIn](https://www.linkedin.com/in/richardryu/)
 
@@ -16,7 +16,17 @@ To be more specific, this will be a short comprehensive review of my time at UC 
 
 (<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
 
-## W200 Python Fundamental for Data science (2018 Summer)
+## Bookmarks
+[W200 Python Fundamentals for Data Science](https://github.com/iatechicken/ucbmids#w200-python-fundamental-for-data-science-2018-summer)
+[W203 Statistics for Data Science](https://github.com/iatechicken/ucbmids#w203-statistics-for-data-science-2019-summer)
+[W205 Fundamentals of Data Engineering](https://github.com/iatechicken/ucbmids#w205-fundamentals-of-data-engineering-2019-summer)
+[W209 Data Visualization](https://github.com/iatechicken/ucbmids#w209-data-visualization-2019-fall)
+[W207 Applied Machine Learning](https://github.com/iatechicken/ucbmids#w207-applied-machine-learning-2019-fall)
+[W251 Deep Learning in the Cloud at the Edge](https://github.com/iatechicken/ucbmids#w251-deep-learning-in-the-cloud-at-the-edge-2020-spring)
+[W261 Machine Learning at Scale](https://github.com/iatechicken/ucbmids#w261-machine-learning-at-scale-2020-spring)
+[W210 Capstone](https://github.com/iatechicken/ucbmids#w210-capstone-2020-summer)
+
+## W200 Python Fundamentals for Data science (2018 Summer)
 This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions, and different data structures like float  vs int. However, what I remember most from this class were two things:
 
 1. Great community. Our class was comprised of students with no python background from all ages and all genders. With a common goal of learning, everybody (including the TAs and the instructors) helped each other out and was readily available!
@@ -68,13 +78,13 @@ I took a year break after my first semester at UC Berkeley MIDS due to my commit
 I was always fascinated by the fast moving lines of log on a terminal. I got a chance to watch a lot of that in work, when I participated in a project to switch the host infrastructure of our web platform from AWS to Microsoft Azure. By the time I was done with W205 Data Engineering, I think I have a general idea of what all those fast moving lines of logs were doing.
 
 ### Highlights
-- First introduction to the world of dockers, cloud services (GCP), data pipeline, query, transformation, and streaming
+- First introduction to the world of Docker Containers, cloud services (GCP), data pipeline, query, transformation, and streaming
 - Kafka, Flask, Spark
 
 ### Final Project: Instrument an API server to catch and analyze events for a mobile gaming company
 
 - Each weekly assignments build up to the final project where we put it all together in a single data pipeline. Tools and packages leveraged in the final pipeline:
-    - dockers
+    - Docker Containers
     - Kafka
     - Flask
     - Hadoop HDFS
@@ -138,7 +148,7 @@ If you're not sure what Jetson TX-2 is, Bin Wang provided a nice video below tha
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nls0zG-Sqh4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Highlights
-- Heavy exposure to dockers, IBM cloud, dev/ops, IoT, edge computing, deep learning, NVDIA Jetson TX-2
+- Heavy exposure to Docker Containers, IBM cloud, dev/ops, IoT, edge computing, deep learning, NVDIA Jetson TX-2
 - Tuning models to safely land a lunar lander on moon [github](https://github.com/iatechicken/w251/tree/master/hw11)
 ![lunar lander](./W251/m3-frame50000.gif)
 - Trained a Transformer-based Machine Translation Network on a small English to German WMT corpus [github](https://github.com/iatechicken/w251/tree/master/hw09)
