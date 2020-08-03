@@ -6,25 +6,26 @@ Hello, my name is Richard Ryu and I like to build things and solve problems. I w
 
 To be more specific, this will be a short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is chronologically ordered by the classes that I took and will include samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
 
-[LinkedIn](https://www.linkedin.com/in/richardryu/)
+* [LinkedIn](https://www.linkedin.com/in/richardryu/)
 
-[github](https://github.com/iatechicken/ucbmids)
+* [github](https://github.com/iatechicken/ucbmids)
 
-[Codepen](https://codepen.io/collection/AGwgrw)
+* [Codepen](https://codepen.io/collection/AGwgrw)
 
-[StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
+* [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
-(<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
+* (<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
 
-## Bookmarks
-[W200 Python Fundamentals for Data Science](https://github.com/iatechicken/ucbmids#w200-python-fundamental-for-data-science-2018-summer)
-[W203 Statistics for Data Science](https://github.com/iatechicken/ucbmids#w203-statistics-for-data-science-2019-summer)
-[W205 Fundamentals of Data Engineering](https://github.com/iatechicken/ucbmids#w205-fundamentals-of-data-engineering-2019-summer)
-[W209 Data Visualization](https://github.com/iatechicken/ucbmids#w209-data-visualization-2019-fall)
-[W207 Applied Machine Learning](https://github.com/iatechicken/ucbmids#w207-applied-machine-learning-2019-fall)
-[W251 Deep Learning in the Cloud at the Edge](https://github.com/iatechicken/ucbmids#w251-deep-learning-in-the-cloud-at-the-edge-2020-spring)
-[W261 Machine Learning at Scale](https://github.com/iatechicken/ucbmids#w261-machine-learning-at-scale-2020-spring)
-[W210 Capstone](https://github.com/iatechicken/ucbmids#w210-capstone-2020-summer)
+## Table of Contents
+
+* [W200 Python Fundamentals for Data Science](https://github.com/iatechicken/ucbmids#w200-python-fundamental-for-data-science-2018-summer)
+* [W203 Statistics for Data Science](https://github.com/iatechicken/ucbmids#w203-statistics-for-data-science-2019-summer)
+* [W205 Fundamentals of Data Engineering](https://github.com/iatechicken/ucbmids#w205-fundamentals-of-data-engineering-2019-summer)
+* [W209 Data Visualization](https://github.com/iatechicken/ucbmids#w209-data-visualization-2019-fall)
+* [W207 Applied Machine Learning](https://github.com/iatechicken/ucbmids#w207-applied-machine-learning-2019-fall)
+* [W251 Deep Learning in the Cloud at the Edge](https://github.com/iatechicken/ucbmids#w251-deep-learning-in-the-cloud-at-the-edge-2020-spring)
+* [W261 Machine Learning at Scale](https://github.com/iatechicken/ucbmids#w261-machine-learning-at-scale-2020-spring)
+* [W210 Capstone](https://github.com/iatechicken/ucbmids#w210-capstone-2020-summer)
 
 ## W200 Python Fundamentals for Data science (2018 Summer)
 This was my first "coding" class in an academic setting. Coming in with only 2+ years of SQL and some decent excel skills, there were parts that were easy to understand like If conditions, and different data structures like float  vs int. However, what I remember most from this class were two things:
