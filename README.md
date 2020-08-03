@@ -6,15 +6,9 @@ Hello, my name is Richard Ryu and I like to build things and solve problems. I w
 
 To be more specific, this will be a short comprehensive review of my time at UC Berkeley Master of Information and Data Science. Each section is chronologically ordered by the classes that I took and will include samples of codes, screenshots, and links to my work. If any of the links are broken, please let me know at richard.ryu@ischool.berkeley.edu
 
-* [LinkedIn](https://www.linkedin.com/in/richardryu/)
+[LinkedIn](https://www.linkedin.com/in/richardryu/)    [github](https://github.com/iatechicken/ucbmids)    [Codepen](https://codepen.io/collection/AGwgrw)    [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
 
-* [github](https://github.com/iatechicken/ucbmids)
-
-* [Codepen](https://codepen.io/collection/AGwgrw)
-
-* [StackOverflow](https://stackoverflow.com/users/10689054/iatechicken)
-
-* (<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
+(<a id="raw-url" href="https://raw.githubusercontent.com/iatechicken/ucbmids/master/resume_richardryu.pdf">Download Resume</a>)
 
 ## Table of Contents
 
