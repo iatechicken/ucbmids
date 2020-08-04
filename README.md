@@ -95,7 +95,7 @@ I was always fascinated by the fast moving lines of log on a terminal. I got a c
 
 - [step by step annotations](./W205/README.md)
 
-<img src="./imgs/a4.png" width="500">
+<img src="./imgs/a4.png" width="100%">
 
 ## W209 Data Visualization (2019 Fall)
 I was a bit hesitant to take this class since I already had decent business intelligence/data visualization background. I'm proficient with Tableau and have delivered data visualizations to managers of global pharmaceutical companies through SiSense and Microsoft PowerBI. However, this class made me realize that we're all actually spoiled by the data visualization tools out there. A lot of the fundamental concepts/theory behind designing a good data visualization that we learned in this class, is already selected/guided by tools such as Tableau or SiSense. We not only learned the fundamentals of good data visualization, but also learned how to code our own data visualization through D3.js. After all, a picture is worth more than thousand words.
@@ -112,7 +112,7 @@ I was a bit hesitant to take this class since I already had decent business inte
 [github](https://github.com/jlee-snn/w209_MOSS)
 [Final Presentation](https://docs.google.com/presentation/d/1LEihVbGMWBkUKJHeLqjL8jqGFBDI-Ceae-GL_Bp2Blw/edit?usp=sharing)
 
-<img src="./imgs/a1.png" width="500">
+<img src="./imgs/a1.png" width="100%">
 
 ## W207 Applied Machine Learning (2019 Fall)
 This was my official introduction to Machine Learning. Yes, it took only about a year before I actually got the chance to do Machine Learning. I got a chance to learn from Yacov Salomon and one thing I will remember the most is his whiteboard and always dry markers... and how he always emphasized the importance of understanding the intuition behind any algorithms. To get a better understanding of what I mean, take a look at the Q&A below from one of the assignments:
@@ -144,7 +144,7 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
 
 ![Architecture](./W207/arch.png)
 
-<img src="./imgs/a2.png" width="500">
+<img src="./imgs/a2.png" width="100%">
 
 ## W251 Deep Learning in the Cloud at the Edge (2020 Spring)
 Despite the fact that data is growing at an exponential rate, there are so many un-captured data in the wild. This is where edge computing comes in and what this class is all about. Our first task was to setup a NVIDIA Jetson TX-2 with ubuntu. With the Jetson and IBM Cloud, we got to experiment with various algorithms of Deep Learning and truly appreciate the possibilities of big data.
@@ -178,7 +178,7 @@ Real Video             |  Fake Video
 :-------------------------:|:-------------------------:
 ![real video](./W251/ellavthztb.gif)  |  ![fake video](./W251/dbzpcjntve.gif)
 
-<img src="./imgs/a4.png" width="500">
+<img src="./imgs/a4.png" width="100%">
 
 ## W261 Machine Learning at Scale (2020 Spring)
 3 goals achieved in Kyle Hamilton's class (thank you for all the dad jokes of data science despite teaching back-to-back classes after long days of work. You are the real MVP!):
@@ -199,7 +199,7 @@ Can weather data and basic airline metadata be used to predict whether or not a 
 
 [presentation](https://docs.google.com/presentation/d/1k2vu4djyhjHTvuGNRnIekUbIcTpqaWKEzKtHx671rZc/edit?usp=sharing)
 
-<img src="./imgs/a3.png" width="500">
+<img src="./imgs/a3.png" width="100%">
 
 ## W210 Capstone (2020 Summer)
 This is it. I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com). Our plan was to:
