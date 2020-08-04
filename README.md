@@ -50,7 +50,7 @@ This was my first "coding" class in an academic setting. Coming in with only 2+ 
   ![bechdel_highlight](./W200/bechdel.png)
 
 
-<img src="./imgs/a1.png" width="500">
+<img src="./imgs/a1.png" width="100%">
 
 ## W203 Statistics for Data Science (2019 Summer)
 I took a year break after my first semester at UC Berkeley MIDS due to my commitments as a product manager. However, I decided to re-prioritize and return to school full-time by taking Statistics and Data Engineering during the summer of 2019.
@@ -72,7 +72,7 @@ I took a year break after my first semester at UC Berkeley MIDS due to my commit
 
 ![final results](./W203/final.png)
 
-<img src="./imgs/a2.png" width="500">
+<img src="./imgs/a2.png" width="100%">
 
 ## W205 Fundamentals of Data Engineering (2019 Summer)
 I was always fascinated by the fast moving lines of log on a terminal. I got a chance to watch a lot of that in work, when I participated in a project to switch the host infrastructure of our web platform from AWS to Microsoft Azure. By the time I was done with W205 Data Engineering, I think I have a general idea of what all those fast moving lines of logs were doing.
