@@ -57,15 +57,12 @@ I took a year break after my first semester at UC Berkeley MIDS due to my commit
 
 ### Highlights
 - Probability Theory and foundational understanding of classical statistics and how it fits within the broader context of data science
-
 - learned and used R for most assignments
 
 ### Final Project: Linear Regression on North Carolina Crime data
 
 - The consulting group Significant Effects, comprised of data scientists Jeff Li, Vasanth Ramani, and Richard Ryu, has been tasked by a political campaign to identify determinants of crime
-
 - Came up with 3 different linear regression models to predict crime in North Carolina
-
 - Evaluate the models through: CLM assumptions and fit
 
 [pdf version](./W203/sig_eff.pdf)
@@ -133,7 +130,6 @@ A: The difference between Naive Bayes and logistic regression is that Naive Baye
 
 ### Final Project: Kaggle - Facial Keypoint Detection Challenge
 - This was my first [Kaggle](https://www.kaggle.com/c/facial-keypoints-detection) competition.
-
 - Used Keras, tensorflow, skimage, sklearn, pandas, numpy, matplotlib, CUDA, CuDNN
 
 [presentation](https://docs.google.com/presentation/d/1IPMNdfzN4TBaobklF8pnc0rI8l8BjUV2utph3ZmKl4Q/edit?usp=sharing)
