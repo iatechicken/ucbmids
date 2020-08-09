@@ -1,6 +1,6 @@
 # Richard Ryu
 
-<img src="./rsz_2image0.png" width="300">
+<img src="./rsz_2image0.png" width="200">
 
 Hello, my name is Richard Ryu and I like to build things and solve problems. I wanted to create a simple webpage that will help you better understand how UC Berkeley Master of Information Data Science transformed a non-technical student who only knew how to read SQL queries.
 
