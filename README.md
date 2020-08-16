@@ -200,7 +200,7 @@ Can weather data and basic airline metadata be used to predict whether or not a 
 ## W210 Capstone (2020 Summer)
 This is it. I teamed up with Hong, Michelle, and Rachael to come up with [AccessiPark Denver](http://accessipark.com). Our plan was to:
 - First, train a model to detect street-level accessibility obstacles like lamps, fire hydrants, no parking signs
-- Second, Find areas from a zipcode level with the least amount of accessibility obstacles
+- Second, Find areas from a zipcode level with the total count of accessibility parking signs
 - Third, use feature engineering, googlemaps, and data visualization to disseminate this information
 
 ### Highlights
