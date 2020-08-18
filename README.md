@@ -183,8 +183,7 @@ Real Video             |  Fake Video
 - Learn to recognize and apply key concepts in parallel computation and MapReduce design
 - Design stateless parallelizable implementations of core machine learning algorithms from scratch
 - Gain hands-on experience using Apache Hadoop and Apache Spark to analyze large datasets
-- [Spark Intro and Codes](http://people.ischool.berkeley.edu/~richard.ryu/hw3_Workbook.html)
-- [OLS, Ridge, and Lasso with Spark RDDs](http://people.ischool.berkeley.edu/~richard.ryu/hw4_Workbook.html)
+- OLS, Ridge, and Lasso with Spark RDDs
 
 ![OLS](./W261/OLS.png)
 
