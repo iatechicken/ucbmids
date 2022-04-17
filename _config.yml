@@ -1,0 +1,43 @@
+# Site Info
+title: ""
+tagline: ""
+description: ""
+baseurl: ""
+url: https://iatechicken.github.io/ucbmids/
+logo: ""
+
+# Site configurations
+#gems:
+#  - jekyll-paginate
+#markdown: kramdown
+#kramdown:
+#  input: GFM
+#excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+#paginate:
+#paginate_path: ''
+#permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: Richard Ryu
+  description: What is Richard thinking about
+  contact:
+    # linkedin:  https://www.linkedin.com/in/
+    github:    https://github.com/iatechicken
+    #    facebook:
+    # twitter:
+    # weibo:
+    email:    mailto:richard.ryu@berkeley.edu
+
+# google_analytics:
+  # ua: 'UA-134234881-1'
+
+# Puglins
+#mathjax: true # whether support mathjax
+#google_analytics_token: '' # leave blank if you don't want google analytics
+#disqus_short_name: '' # leave blank if you don't want disqus
